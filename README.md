@@ -1,2 +1,3 @@
 # senai-versoes-colaboracoes2
-aula presencial
+
+Fazendo uma alteração no arquivo readme.
